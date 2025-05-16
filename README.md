@@ -1,7 +1,7 @@
 ## Songs <3
 <br>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31pc2jjnflsqkjpfrcptdoalem3u&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<img width="320" height="445"  src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pc2jjnflsqkjpfrcptdoalem3u&cover_image=true&theme=compact">
 
 
 ## Basic Skills ⌨️
